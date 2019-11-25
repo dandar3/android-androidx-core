@@ -6,11 +6,10 @@ https://maven.google.com/androidx/core/core/1.0.0/core-1.0.0.aar
 **Requires:**
 - `Android 9 (API 28) SDK Platform`
 - [dandar3/android-androidx-annotation](https://github.com/dandar3/android-androidx-annotation/tree/1.0.0)
-- [dandar3/android-androidx-androidx-arch-core-common](https://github.com/dandar3/android-androidx-androidx-arch-core-common/tree/2.0.0)
-- [dandar3/android-androidx-androidx-collection](https://github.com/dandar3/android-androidx-collection/tree/1.0.0)
-- [dandar3/android-androidx-lifecycle-common](https://github.com/dandar3/android-androidx-lifecycle-common/tree/2.0.0)
+- [dandar3/android-androidx-collection](https://github.com/dandar3/android-androidx-collection/tree/1.0.0)
 - [dandar3/android-androidx-lifecycle-runtime](https://github.com/dandar3/android-androidx-lifecycle-runtime/tree/2.0.0)
 - [dandar3/android-androidx-versionedparcelable](https://github.com/dandar3/android-androidx-versionedparcelable/tree/1.0.0)
+
 
 **References:**
 - https://developer.android.com/jetpack
