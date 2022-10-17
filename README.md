@@ -8,7 +8,7 @@ https://maven.google.com/androidx/core/core/1.6.0/core-1.6.0.aar
   https://raw.githubusercontent.com/dandar3/android-androidx-core/1.6.0/.projectset
 
 **Requires:**
-- `Android 9 (API 28) SDK Platform`
+- `Android 11 (API 30) SDK Platform`
 
 **References:**
 - https://developer.android.com/jetpack
