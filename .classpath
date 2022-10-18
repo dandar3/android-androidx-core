@@ -8,6 +8,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-annotation"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-annotation-experimental"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-collection"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-concurrent-futures"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-lifecycle-runtime"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-versionedparcelable"/>
 	<classpathentry kind="output" path="bin/classes"/>

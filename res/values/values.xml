@@ -108,6 +108,9 @@
         <!-- Alpha multiplier applied to the base color. -->
         <attr format="float" name="alpha"/>
         <attr name="android:alpha"/>
+        <!-- Perceptual luminance applied to the base color. From 0 to 100. -->
+        <attr format="float" name="lStar"/>
+        <attr name="android:lStar"/>
     </declare-styleable>
     <declare-styleable name="FontFamily">
         <!-- The authority of the Font Provider to be used for the request. -->
