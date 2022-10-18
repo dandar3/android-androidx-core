@@ -16,8 +16,8 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="androidx.core" 
-    android:versionCode="170"
-    android:versionName="1.7.0">
+    android:versionCode="180"
+    android:versionName="1.8.0">
 
     <uses-sdk
         android:minSdkVersion="14"
